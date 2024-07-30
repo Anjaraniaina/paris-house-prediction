@@ -1,8 +1,10 @@
-# 🎈 Blank app template
+# 🎈 House prediction
+A simple Streamlit House Prediction app!  
+[Click here](https://blank-app-template.streamlit.app/)
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## About
+An application of an ETL and use of a little bit of ML model to predict the price of a house.
+**NB:** the data used here are all mock data
 
 ### How to run it on your own machine
 
